@@ -1,0 +1,6 @@
+[submodule "build-common-api-cpp-native"]
+	path = build-common-api-cpp-native
+	url = https://github.com//gunnarx/build-common-api-cpp-native
+[submodule "vss-tools"]
+	path = vss-tools
+	url = https://github.com/gunnarx/vss-tools
